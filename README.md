@@ -1,2 +1,2 @@
 # Octocat
-Octocat Designs
+This repository contains all of my Github Octocat designs!
